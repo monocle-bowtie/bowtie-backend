@@ -1,0 +1,52 @@
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\obj\Debug\SistAdmin_f4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\SistAdmin.dll.config
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\SistAdmin.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\SistAdmin.pdb
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\EntityFramework.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Net.Http.Formatting.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.SelfHost.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.WebHost.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\EntityFramework.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\log4net.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Net.Http.Formatting.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.SelfHost.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\bin\System.Web.Http.WebHost.xml
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\obj\Debug\SistAdmin.dll
+C:\Users\Cristian\Documents\Sistema Administración\SistAdmin\SistAdmin\obj\Debug\SistAdmin.pdb
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\obj\Debug\SistAdmin_f4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\obj\Debug\SistAdmin.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\obj\Debug\SistAdmin.pdb
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\SistAdmin.dll.config
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\SistAdmin.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\SistAdmin.pdb
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\EntityFramework.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Net.Http.Formatting.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.SelfHost.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.WebHost.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\EntityFramework.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\log4net.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Net.Http.Formatting.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.SelfHost.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Http.WebHost.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Antlr3.Runtime.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Newtonsoft.Json.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Optimization.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\WebGrease.dll
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Antlr3.Runtime.pdb
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\Newtonsoft.Json.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\System.Web.Optimization.xml
+C:\Users\Cristian\Documents\Repositorio\SistAdmin\SistAdmin\bin\es\System.Web.Optimization.resources.dll
